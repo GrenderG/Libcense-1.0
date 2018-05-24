@@ -40,14 +40,15 @@ Libcense 1.0 has some limitations:
 3. Conditions
 
 Libcense 1.0 has some conditions:
-  - Any derivative work (this means, any modified version of this sofware) MUST use and include this license 
-    (and be compliant with) or any free software license.
+  - Any derivative work (this means, any modified version of this sofware) MUST include a copy of its source code whenever
+    it's distributed or placed under public access.
+  - Any derivative work MUST use and include this license (and be compliant with) or any free software license compatible
+    (this means, with similar, equal or more permissions) with Libcense 1.0.
   - Any derivative work MUST include the name of the original author of this software.
   - If you use this software as a library, its source code MUST remain UNTOUCHED and UNOBFUSCATED (while possible).
   - If you use this software as a library, you are not required to name the original author of this software, although
     is always recommended to do that.
-  - If you use this software as a library, you are not required to distribute a copy of this license, but please notice
-    the third point of these conditions.
+  - If you use this software as a library, you are not required to distribute a copy of this license, although is always         recommended to do that.
   - If you use this software as a library, WHENEVER IT'S POSSIBLE to allow the users to use a modified version of this
     software, you MUST allow them.
 ```
