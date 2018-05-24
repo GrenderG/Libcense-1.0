@@ -2,6 +2,7 @@ Libcense version 1.0, 25 may 2018
 ---------------------------------
 
 Copyright (C) Daniel Morales, 2018.
+This license is under Creative Commons, Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)
 
 
 0. Announcement
