@@ -50,9 +50,11 @@ Libcense 1.0 has some conditions:
   - If you use this software as a library, its source code MUST remain UNTOUCHED and UNOBFUSCATED (while possible).
   - If you use this software as a library, you are not required to name the original author of this software, although
     is always recommended to do that.
-  - If you use this software as a library, you are not required to distribute a copy of this license, although is always         recommended to do that.
+  - If you use this software as a library, you are not required to distribute a copy of this license, although is
+    always recommended to do that.
   - If you use this software as a library, WHENEVER IT'S POSSIBLE to allow the users to use a modified version of this
     software, you MUST allow them.
+
 ```
 
 # File header
