@@ -1,6 +1,6 @@
 # Libcense-1.0
 
-This license is intended to be used in libraries and it's under Creative Commons, Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0).
+This free software license is intended to be used in libraries and it's under Creative Commons, Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0).
 
 # Full text
 
