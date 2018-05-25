@@ -49,6 +49,7 @@ Libcense 1.0 has some limitations:
 3. Conditions
 
 Libcense 1.0 has some conditions:
+  - If you distribute this software, you MUST include a copy and/or a link to its ource code and this license.
   - Any derivative work (this means, any modified version of this sofware) MUST include a copy of its source code whenever
     it's distributed or placed under public access.
   - Any derivative work MUST use and include this license (and be compliant with) or any free software license compatible
@@ -62,6 +63,7 @@ Libcense 1.0 has some conditions:
     always recommended to do that.
   - If you use this software as a library, WHENEVER IT'S POSSIBLE to allow the users to use a modified version of this
     software, you MUST allow them.
+    
     
 ```
 
