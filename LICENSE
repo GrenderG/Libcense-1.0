@@ -27,15 +27,16 @@ Libcense 1.0 allows to:
 2. Limitations
 
 Libcense 1.0 has some limitations:
-  - Does not imply any kind of warranty, this means that this software is provided on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS 
-    OF ANY KIND, either express or implied, including, without limitation, any warranties or conditions of TITLE, NON-INFRINGEMENT, 
-    MERCHANTABILITY, or FITNESS FOR A PARTICULAR PURPOSE. You are solely responsible for determining the appropriateness of using or 
-    redistributing this software and assume any risks associated with your exercise of permissions under Libcense 1.0.
-  - Developers are not responsible for any use, or event ocurred while using software under Libcense 1.0, this means that the developer of
-    this software is not liable for ANY DAMAGE, INCLUDING ANY GENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE 
-    OR INABILITY TO USE THE PROGRAM (including but not limited to LOSS OF DATA or data being rendered inaccurate or losses sustained by you 
-    or third parties or a FAILURE OF THE PROGRAM TO OPERATE WITH ANY OTHER PROGRAMS), even if such holder or other party has been advised 
-    of the possibility of such damages.
+  - Does not imply any kind of warranty, this means that this software is provided on an "AS IS" BASIS, WITHOUT WARRANTIES 
+    OR CONDITIONS OF ANY KIND, either express or implied, including, without limitation, any warranties or conditions of 
+    TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A PARTICULAR PURPOSE. You are solely responsible for determining 
+    the appropriateness of using or redistributing this software and assume any risks associated with your exercise of 
+    permissions under Libcense 1.0.
+  - Developers are not responsible for any use, or event ocurred while using software under Libcense 1.0, this means that 
+    the developer of this software is not liable for ANY DAMAGE, INCLUDING ANY GENERAL, SPECIAL, INCIDENTAL OR CONSEQUENTIAL 
+    DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE THE PROGRAM (including but not limited to LOSS OF DATA or data being 
+    rendered inaccurate or losses sustained by you or third parties or a FAILURE OF THE PROGRAM TO OPERATE WITH ANY OTHER 
+    PROGRAMS), even if such holder or other party has been advised of the possibility of such damages.
   
 
 3. Conditions
