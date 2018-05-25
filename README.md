@@ -47,7 +47,7 @@ Libcense 1.0 has some conditions:
   - Any derivative work MUST use and include this license (and be compliant with) or any free software license compatible
     with Libcense 1.0.
   - Any derivative work MUST include the name of the original author of this software.
-  - If you use this software as a library, its source code MUST remain UNTOUCHED and UNOBFUSCATED (while possible).
+  - If you use this software as a library, its source code MUST remain UNTOUCHED, otherwise it will be considered a fork and     you will need to specify it.
   - If you use this software as a library, you are not required to name the original author of this software, although
     is always recommended to do that.
   - If you use this software as a library, you are not required to distribute a copy of this license, although is
